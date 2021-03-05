@@ -16,4 +16,4 @@ The NumberUtil program is a data type conversion program provided by a java numb
 
    The input of the service to be tested is divided into equivalence classes, and then the MRs is designed by analyzing the necessary attributes existing between different equivalence classes. 
 
-   ![](https://cdn.jsdelivr.net/gh/Evan-ZJ/MyPic/img/20201024215839.png)
+   ![](https://cdn.jsdelivr.net/gh/Evan-ZJ/MyPic/img/20210305150901.png)
